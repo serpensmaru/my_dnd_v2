@@ -1,6 +1,7 @@
 # Домашнее задание к занятию "6. Работа с файлами, DnD"
 
-[![Build status](https://ci.appveyor.com/api/projects/status/pkbwoisn9vvtemr7?svg=true)](https://ci.appveyor.com/project/serpensmaru/hw-dnd)
+[![Build status](https://ci.appveyor.com/api/projects/status/27hf7lq0xp905mr3/branch/main?svg=true)](https://ci.appveyor.com/project/serpensmaru/my-dnd-v2/branch/main)
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ нужно использовать yarn (поэтому файла `package-lock.json` в репозитории быть не должно)
