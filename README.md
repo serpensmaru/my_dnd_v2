@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "6. Работа с файлами, DnD"
 
-[![Build status](https://ci.appveyor.com/api/projects/status/27hf7lq0xp905mr3/branch/main?svg=true)](https://ci.appveyor.com/project/serpensmaru/my-dnd-v2/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/dkyikbwm17wcn8ln/branch/master?svg=true)](https://ci.appveyor.com/project/serpensmaru/my-dnd-v2/branch/master)
 
 Правила сдачи задания:
 
